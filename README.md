@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovitorvl&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorvl" /> </p>
 
-- 🔭 I’m currently working on **reinforcing on java fundamentals**
+- 🔭 I’m currently working on **reinforcing java fundamentals**
 
 - 🌱 I’m currently learning **Java fundamentals, Spring Boot, REST API, SQL, no SQL**
 

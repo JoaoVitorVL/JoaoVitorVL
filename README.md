@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
-<h3 align="center">And I really interested in backend and infrastructure 😊</h3>
+<h3 align="center">And I'm really interested in backend and infrastructure 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovitorvl&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorvl" /> </p>
 

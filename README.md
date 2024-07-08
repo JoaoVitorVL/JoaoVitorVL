@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **joaov.vieiralima@gmail.com**
 
-- ⚡ Fun fact **I love hearing about infrastructure, specially if it's about Containers and VMs 🤓**
+- ⚡ Fun fact **I love to listen about infrastructure, specially if it's about Containers and VMs 🤓**
 
 
 
